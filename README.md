@@ -2,6 +2,8 @@
 
 Library that allows you to add pagination feature on your website
 
+![alt text](https://github.com/dawidgorecki/pagination/blob/master/example.png)
+
 ### Usage
 ```php
 // krok 1 - dołącz klasę
@@ -29,7 +31,3 @@ $query = $pagination->update_query($query);
 
 $pagination->add_widget();
 ```
-
-### Example
-
-![alt text](https://github.com/dawidgorecki/pagination/blob/master/example.png)
